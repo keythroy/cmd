@@ -1,0 +1,2 @@
+# cmd
+comandos para lembrar
